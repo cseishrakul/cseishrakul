@@ -22,6 +22,18 @@ I thrive on building impactful solutions that solve real-world problems, whether
 </p>
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cseishrakul&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cseishrakul&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
+
 ## 📬 Connect with me
 
 <p align="center">
