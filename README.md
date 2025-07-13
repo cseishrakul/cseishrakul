@@ -22,8 +22,20 @@ I thrive on building impactful solutions that solve real-world problems, whether
 </p>
 
 
-Connect with me:
-[Linkedin](https://www.linkedin.com/in/md-ishrakul-islam-efaz)
-| [Codeforces](https://codeforces.com/profile/Ishrak_236) |
-[Twitter](https://x.com/EfazMd91503?t=2uzdXrNpGCsNzjy_m_yoqQ&s=08) |
-[Portfolio](https://ishrakul-islam.great-site.net)
+## 📬 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-ishrakul-islam-efaz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://codeforces.com/profile/Ishrak_236" target="_blank" style="margin-left:10px;">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=for-the-badge" alt="Codeforces" />
+  </a>
+  <a href="https://x.com/EfazMd91503?t=2uzdXrNpGCsNzjy_m_yoqQ&s=08" target="_blank" style="margin-left:10px;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://ishrakul-islam.great-site.net" target="_blank" style="margin-left:10px;">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Portfolio" />
+  </a>
+</p>
+
