@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/cseishrakul/cseishrakul/blob/main/github%20cover.png](https://raw.githubusercontent.com/cseishrakul/cseishrakul/main/github%20cover.png
-)" alt="cover" />
+  <img src="https://raw.githubusercontent.com/cseishrakul/cseishrakul/main/github%20cover.png" alt="cover" />
 </p>
 
 
